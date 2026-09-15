@@ -1,8 +1,17 @@
 class Solution(object):
     def firstPalindrome(self, words):
-        result=[]
+        
         for word in words:
-            if word==word[::-1]:
+            l=0
+            r=len(word)-1
+            if len(word)==1:
                 return word
+            while(l<r):
+                if word[l]!=word[r]:
+                    break
+                l+=1
+                r-=1
+                if l>=r:
+                    return word
         return ""
         
