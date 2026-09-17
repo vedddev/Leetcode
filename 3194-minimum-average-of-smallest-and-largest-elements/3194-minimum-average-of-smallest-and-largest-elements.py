@@ -3,16 +3,10 @@ class Solution:
         nums=sorted(nums)
         l=0
         r=len(nums)-1
-        avg=0
-        result=[]
+        min_value=float('inf')
         while l<r:
-            avg=nums[l]+nums[r]
-            avg/=2
-            result.append(avg)
+            avg=(nums[l]+nums[r])/2
+            min_value=min(min_value,avg)
             l+=1
             r-=1
-        min_value=result[0]
-        for i in range(1,len(result)):
-            if min_value>result[i]:
-                min_value=result[i]
         return min_value
