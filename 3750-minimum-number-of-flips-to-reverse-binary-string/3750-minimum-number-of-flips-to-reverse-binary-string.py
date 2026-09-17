@@ -5,7 +5,7 @@ class Solution(object):
         l=0
         r=len(s)-1
         count=0
-        s=s[::-1]
+        
         while l<r:
             if s[r]!=s[l]:
                 count+=1
