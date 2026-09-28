@@ -7,7 +7,7 @@ class Solution(object):
             if s[i]=="I":
                 result.append(n2)
                 n2+=1
-            elif s[i]=="D":
+            else:
                 result.append(n1)
                 n1-=1
         result.append(n1)
