@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0821-shortest-distance-to-a-character](https://github.com/vedddev/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/vedddev/Leetcode/tree/master/0942-di-string-match) |
 | [1512-number-of-good-pairs](https://github.com/vedddev/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/vedddev/Leetcode/tree/master/1528-shuffle-string) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0821-shortest-distance-to-a-character](https://github.com/vedddev/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/vedddev/Leetcode/tree/master/0942-di-string-match) |
 | [2540-minimum-common-value](https://github.com/vedddev/Leetcode/tree/master/2540-minimum-common-value) |
 ## Binary Search
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0821-shortest-distance-to-a-character](https://github.com/vedddev/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/vedddev/Leetcode/tree/master/0942-di-string-match) |
 | [1528-shuffle-string](https://github.com/vedddev/Leetcode/tree/master/1528-shuffle-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vedddev/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
