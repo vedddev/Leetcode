@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/vedddev/Leetcode/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/vedddev/Leetcode/tree/master/0217-contains-duplicate) |
+| [0771-jewels-and-stones](https://github.com/vedddev/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vedddev/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vedddev/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedddev/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vedddev/Leetcode/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/vedddev/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/vedddev/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0771-jewels-and-stones](https://github.com/vedddev/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/vedddev/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/vedddev/Leetcode/tree/master/0942-di-string-match) |
 | [1528-shuffle-string](https://github.com/vedddev/Leetcode/tree/master/1528-shuffle-string) |
