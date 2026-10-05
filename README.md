@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedddev/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0821-shortest-distance-to-a-character](https://github.com/vedddev/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/vedddev/Leetcode/tree/master/0942-di-string-match) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vedddev/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/vedddev/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vedddev/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/vedddev/Leetcode/tree/master/2540-minimum-common-value) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/vedddev/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/vedddev/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/vedddev/Leetcode/tree/master/0942-di-string-match) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vedddev/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1528-shuffle-string](https://github.com/vedddev/Leetcode/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/vedddev/Leetcode/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/vedddev/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/vedddev/Leetcode/tree/master/0273-integer-to-english-words) |
+## String Matching
+|  |
+| ------- |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/vedddev/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
