@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/vedddev/Leetcode/tree/master/1816-truncate-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/vedddev/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedddev/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vedddev/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vedddev/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vedddev/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/vedddev/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/vedddev/Leetcode/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/vedddev/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/vedddev/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vedddev/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vedddev/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/vedddev/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/vedddev/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/vedddev/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vedddev/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Counting Sort
 |  |
