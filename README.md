@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/vedddev/Leetcode/tree/master/2540-minimum-common-value) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/vedddev/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vedddev/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/vedddev/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vedddev/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/vedddev/Leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/vedddev/Leetcode/tree/master/3866-first-unique-even-element) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedddev/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2540-minimum-common-value](https://github.com/vedddev/Leetcode/tree/master/2540-minimum-common-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vedddev/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/vedddev/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/vedddev/Leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/vedddev/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/vedddev/Leetcode/tree/master/3945-digit-frequency-score) |
