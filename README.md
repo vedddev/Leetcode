@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vedddev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0821-shortest-distance-to-a-character](https://github.com/vedddev/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0942-di-string-match](https://github.com/vedddev/Leetcode/tree/master/0942-di-string-match) |
+| [1331-rank-transform-of-an-array](https://github.com/vedddev/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vedddev/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vedddev/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/vedddev/Leetcode/tree/master/1528-shuffle-string) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vedddev/Leetcode/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/vedddev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/vedddev/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1331-rank-transform-of-an-array](https://github.com/vedddev/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vedddev/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vedddev/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedddev/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vedddev/Leetcode/tree/master/0217-contains-duplicate) |
+| [1331-rank-transform-of-an-array](https://github.com/vedddev/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vedddev/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/vedddev/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [3731-find-missing-elements](https://github.com/vedddev/Leetcode/tree/master/3731-find-missing-elements) |
