@@ -7,9 +7,7 @@ class Solution(object):
                 even_sum+=int(num[i])
             else:
                 odd_sum+=int(num[i])
-        if odd_sum==even_sum:
-            return True
-        return False
+        return odd_sum==even_sum
         
         
         
