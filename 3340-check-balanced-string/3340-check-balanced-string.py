@@ -1,17 +1,15 @@
 class Solution(object):
     def isBalanced(self, num):
-        nums=[]
-        for i in num:
-            nums.append(int(i))
-        
         odd_sum=0
         even_sum=0
-        for i in range(len(nums)):
+        for i in range(len(num)):
             if i%2==0:
-                even_sum+=nums[i]
+                even_sum+=int(num[i])
             else:
-                odd_sum+=nums[i]
+                odd_sum+=int(num[i])
         if odd_sum==even_sum:
             return True
         return False
+        
+        
         
