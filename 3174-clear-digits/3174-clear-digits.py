@@ -5,6 +5,6 @@ class Solution(object):
             if i.isdigit():
                 st.pop()
             else:
-                st+=i
+                st.append(i)
         return "".join(st)
         
