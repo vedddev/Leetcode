@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/vedddev/Leetcode/tree/master/2540-minimum-common-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vedddev/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vedddev/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/vedddev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/vedddev/Leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/vedddev/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/vedddev/Leetcode/tree/master/3945-digit-frequency-score) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/vedddev/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedddev/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/vedddev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3866-first-unique-even-element](https://github.com/vedddev/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/vedddev/Leetcode/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/vedddev/Leetcode/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/vedddev/Leetcode/tree/master/3340-check-balanced-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/vedddev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
