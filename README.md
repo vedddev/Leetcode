@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/vedddev/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/vedddev/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/vedddev/Leetcode/tree/master/1528-shuffle-string) |
+| [1732-find-the-highest-altitude](https://github.com/vedddev/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/vedddev/Leetcode/tree/master/1816-truncate-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/vedddev/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedddev/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/vedddev/Leetcode/tree/master/3174-clear-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/vedddev/Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
