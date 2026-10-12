@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vedddev/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedddev/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vedddev/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2032-two-out-of-three](https://github.com/vedddev/Leetcode/tree/master/2032-two-out-of-three) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vedddev/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vedddev/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/vedddev/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vedddev/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/vedddev/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedddev/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2032-two-out-of-three](https://github.com/vedddev/Leetcode/tree/master/2032-two-out-of-three) |
 | [2540-minimum-common-value](https://github.com/vedddev/Leetcode/tree/master/2540-minimum-common-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vedddev/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vedddev/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/vedddev/Leetcode/tree/master/1732-find-the-highest-altitude) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2032-two-out-of-three](https://github.com/vedddev/Leetcode/tree/master/2032-two-out-of-three) |
 <!---LeetCode Topics End-->
