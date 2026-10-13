@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vedddev/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vedddev/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/vedddev/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/vedddev/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vedddev/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2540-minimum-common-value](https://github.com/vedddev/Leetcode/tree/master/2540-minimum-common-value) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/vedddev/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/vedddev/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedddev/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/vedddev/Leetcode/tree/master/2032-two-out-of-three) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/vedddev/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vedddev/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2540-minimum-common-value](https://github.com/vedddev/Leetcode/tree/master/2540-minimum-common-value) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vedddev/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/vedddev/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedddev/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/vedddev/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vedddev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3866-first-unique-even-element](https://github.com/vedddev/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Sorting
