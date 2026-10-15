@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vedddev/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vedddev/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vedddev/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vedddev/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/vedddev/Leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/vedddev/Leetcode/tree/master/3866-first-unique-even-element) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/vedddev/Leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vedddev/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vedddev/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vedddev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vedddev/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/vedddev/Leetcode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/vedddev/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/vedddev/Leetcode/tree/master/3945-digit-frequency-score) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/vedddev/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/vedddev/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vedddev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vedddev/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/vedddev/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
