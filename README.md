@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vedddev/Leetcode/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/vedddev/Leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/vedddev/Leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/vedddev/Leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/vedddev/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/vedddev/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/vedddev/Leetcode/tree/master/0819-most-common-word) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/vedddev/Leetcode/tree/master/0383-ransom-note) |
 | [0819-most-common-word](https://github.com/vedddev/Leetcode/tree/master/0819-most-common-word) |
 | [1512-number-of-good-pairs](https://github.com/vedddev/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedddev/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/vedddev/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/vedddev/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/vedddev/Leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/vedddev/Leetcode/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/vedddev/Leetcode/tree/master/0443-string-compression) |
 | [0771-jewels-and-stones](https://github.com/vedddev/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/vedddev/Leetcode/tree/master/0804-unique-morse-code-words) |
