@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/vedddev/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedddev/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/vedddev/Leetcode/tree/master/2032-two-out-of-three) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/vedddev/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/vedddev/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/vedddev/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/vedddev/Leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/vedddev/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vedddev/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/vedddev/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/vedddev/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/vedddev/Leetcode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/vedddev/Leetcode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vedddev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vedddev/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vedddev/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/vedddev/Leetcode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/vedddev/Leetcode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vedddev/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/vedddev/Leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/vedddev/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
