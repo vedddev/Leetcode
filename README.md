@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vedddev/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/vedddev/Leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/vedddev/Leetcode/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/vedddev/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3866-first-unique-even-element](https://github.com/vedddev/Leetcode/tree/master/3866-first-unique-even-element) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/vedddev/Leetcode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Hash Table
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/vedddev/Leetcode/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/vedddev/Leetcode/tree/master/3340-check-balanced-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/vedddev/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3838-weighted-word-mapping](https://github.com/vedddev/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/vedddev/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/vedddev/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/vedddev/Leetcode/tree/master/3174-clear-digits) |
+| [3838-weighted-word-mapping](https://github.com/vedddev/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Counting Sort
 |  |
 | ------- |
