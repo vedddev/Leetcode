@@ -1,7 +1,7 @@
 class Solution(object):
     def minimumChairs(self, s):
         count=0
-        max_count=float('-inf')
+        max_count=0
 
         for i in range(len(s)):
             if s[i]=="E":
