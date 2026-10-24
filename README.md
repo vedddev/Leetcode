@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/vedddev/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/vedddev/Leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/vedddev/Leetcode/tree/master/1025-divisor-game) |
+| [1103-distribute-candies-to-people](https://github.com/vedddev/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/vedddev/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/vedddev/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/vedddev/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1103-distribute-candies-to-people](https://github.com/vedddev/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vedddev/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/vedddev/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/vedddev/Leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
